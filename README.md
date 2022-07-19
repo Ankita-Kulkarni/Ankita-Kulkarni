@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Kulkarni</h1>
 
- - 🌱 I’m currently learning **Java Programming**
-
  - 📫 How to reach me **kulkarni2ankita@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
