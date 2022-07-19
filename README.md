@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ankita Kulkarni</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-kulkarni" /> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@kulkarni2ankita](https://medium.com/@kulkarni2ankita)
 
 - 📫 How to reach me **kulkarni2ankita@gmail.com**
