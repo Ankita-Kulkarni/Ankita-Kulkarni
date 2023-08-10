@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Kulkarni</h1>
-- 📫 How to reach me **kulkarni2ankita@gmail.com**
+- 📫 How to reach me **kulkarni2ankita@gmail.com** <br>
 - Portfolio: [https://ankita-kulkarni.github.io/Portfolio/]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
