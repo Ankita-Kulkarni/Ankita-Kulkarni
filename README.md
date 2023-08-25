@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ankita-kulkarni.github.io/Portfolio/](https://ankita-kulkarni.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [file:///C:/Users/Admin/Desktop/Ankita/index.html#blog)
+- 📝 I regularly write articles on [https://ankita-kulkarni.github.io/Portfolio/#blog)
 
 - 📫 How to reach me **kulkarni2ankita@gmail.com**
 
