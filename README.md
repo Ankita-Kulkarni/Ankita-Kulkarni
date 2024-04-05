@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Kulkarni</h1>
-<h3 align="center">Computer Engineer</h3>
+<h3 align="center">Application Developer Associate @Accenture</h3>
 
 - 👨‍💻 All of my projects are available at [https://ankita-kulkarni.github.io/Portfolio/](https://ankita-kulkarni.github.io/Portfolio/)
 
